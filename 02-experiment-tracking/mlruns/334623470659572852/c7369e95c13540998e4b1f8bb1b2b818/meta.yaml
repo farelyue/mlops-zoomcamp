@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/334623470659572852/c7369e95c13540998e4b1f8bb1b2b818/artifacts
+end_time: 1717649299570
+entry_point_name: ''
+experiment_id: '334623470659572852'
+lifecycle_stage: active
+run_id: c7369e95c13540998e4b1f8bb1b2b818
+run_name: thoughtful-sheep-823
+run_uuid: c7369e95c13540998e4b1f8bb1b2b818
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717649299496
+status: 3
+tags: []
+user_id: farelyue

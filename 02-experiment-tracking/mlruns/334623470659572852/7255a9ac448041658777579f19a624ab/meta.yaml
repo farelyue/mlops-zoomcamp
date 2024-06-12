@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/334623470659572852/7255a9ac448041658777579f19a624ab/artifacts
+deleted_time: 1717649323250
+end_time: 1717648933263
+entry_point_name: ''
+experiment_id: '334623470659572852'
+lifecycle_stage: deleted
+run_id: 7255a9ac448041658777579f19a624ab
+run_name: polite-donkey-954
+run_uuid: 7255a9ac448041658777579f19a624ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717648933227
+status: 4
+tags: []
+user_id: farelyue

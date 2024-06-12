@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/334623470659572852/6f92ca2f40d849ef9e7a139f8f589ebd/artifacts
+end_time: 1717648961513
+entry_point_name: ''
+experiment_id: '334623470659572852'
+lifecycle_stage: active
+run_id: 6f92ca2f40d849ef9e7a139f8f589ebd
+run_name: carefree-dove-26
+run_uuid: 6f92ca2f40d849ef9e7a139f8f589ebd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717648957614
+status: 3
+tags: []
+user_id: farelyue

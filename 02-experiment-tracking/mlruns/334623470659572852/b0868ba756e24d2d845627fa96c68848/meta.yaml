@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/334623470659572852/b0868ba756e24d2d845627fa96c68848/artifacts
+deleted_time: 1717649323248
+end_time: 1717649059250
+entry_point_name: ''
+experiment_id: '334623470659572852'
+lifecycle_stage: deleted
+run_id: b0868ba756e24d2d845627fa96c68848
+run_name: legendary-gnu-345
+run_uuid: b0868ba756e24d2d845627fa96c68848
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717649059213
+status: 4
+tags: []
+user_id: farelyue

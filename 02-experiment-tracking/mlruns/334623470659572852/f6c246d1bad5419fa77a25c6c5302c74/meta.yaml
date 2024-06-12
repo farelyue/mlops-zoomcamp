@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/334623470659572852/f6c246d1bad5419fa77a25c6c5302c74/artifacts
+end_time: 1717649668248
+entry_point_name: ''
+experiment_id: '334623470659572852'
+lifecycle_stage: active
+run_id: f6c246d1bad5419fa77a25c6c5302c74
+run_name: crawling-stag-139
+run_uuid: f6c246d1bad5419fa77a25c6c5302c74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717649666054
+status: 3
+tags: []
+user_id: farelyue
