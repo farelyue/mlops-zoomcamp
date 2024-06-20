@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/334623470659572852/63624a74d0fd4e8c8470c4c7e13af749/artifacts
+end_time: 1718176135751
+entry_point_name: ''
+experiment_id: '334623470659572852'
+lifecycle_stage: active
+run_id: 63624a74d0fd4e8c8470c4c7e13af749
+run_name: valuable-mink-780
+run_uuid: 63624a74d0fd4e8c8470c4c7e13af749
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718176135703
+status: 3
+tags: []
+user_id: ffirman

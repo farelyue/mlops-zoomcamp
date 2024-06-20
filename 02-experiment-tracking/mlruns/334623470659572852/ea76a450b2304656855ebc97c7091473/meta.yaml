@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/334623470659572852/ea76a450b2304656855ebc97c7091473/artifacts
+deleted_time: 1718175088477
+end_time: 1718174615741
+entry_point_name: ''
+experiment_id: '334623470659572852'
+lifecycle_stage: deleted
+run_id: ea76a450b2304656855ebc97c7091473
+run_name: wistful-cub-160
+run_uuid: ea76a450b2304656855ebc97c7091473
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718174613548
+status: 3
+tags: []
+user_id: ffirman

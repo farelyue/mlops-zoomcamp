@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/334623470659572852/95101dcdcc734d069cbf9c158ce700ce/artifacts
+end_time: 1718176135941
+entry_point_name: ''
+experiment_id: '334623470659572852'
+lifecycle_stage: active
+run_id: 95101dcdcc734d069cbf9c158ce700ce
+run_name: hilarious-pig-53
+run_uuid: 95101dcdcc734d069cbf9c158ce700ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718176135887
+status: 3
+tags: []
+user_id: ffirman

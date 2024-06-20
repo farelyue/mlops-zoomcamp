@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/334623470659572852/142dac3762714b99b949debf82bf0fcd/artifacts
+end_time: 1718176135867
+entry_point_name: ''
+experiment_id: '334623470659572852'
+lifecycle_stage: active
+run_id: 142dac3762714b99b949debf82bf0fcd
+run_name: awesome-squirrel-106
+run_uuid: 142dac3762714b99b949debf82bf0fcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718176135819
+status: 3
+tags: []
+user_id: ffirman

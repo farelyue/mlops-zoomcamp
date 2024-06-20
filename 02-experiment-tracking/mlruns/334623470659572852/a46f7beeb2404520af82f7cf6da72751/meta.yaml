@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/334623470659572852/a46f7beeb2404520af82f7cf6da72751/artifacts
+deleted_time: 1718176173010
+end_time: 1718175222883
+entry_point_name: ''
+experiment_id: '334623470659572852'
+lifecycle_stage: deleted
+run_id: a46f7beeb2404520af82f7cf6da72751
+run_name: serious-snipe-370
+run_uuid: a46f7beeb2404520af82f7cf6da72751
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718175220665
+status: 3
+tags: []
+user_id: ffirman

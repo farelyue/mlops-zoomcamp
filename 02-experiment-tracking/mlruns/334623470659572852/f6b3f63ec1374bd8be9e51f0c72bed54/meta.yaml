@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/334623470659572852/f6b3f63ec1374bd8be9e51f0c72bed54/artifacts
+deleted_time: 1718175088476
+end_time: 1718174900127
+entry_point_name: ''
+experiment_id: '334623470659572852'
+lifecycle_stage: deleted
+run_id: f6b3f63ec1374bd8be9e51f0c72bed54
+run_name: dashing-toad-904
+run_uuid: f6b3f63ec1374bd8be9e51f0c72bed54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718174897965
+status: 3
+tags: []
+user_id: ffirman

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/334623470659572852/b93dd922070449fa93ed06a5b5560d9c/artifacts
+deleted_time: 1718176179800
+end_time: 1718175215814
+entry_point_name: ''
+experiment_id: '334623470659572852'
+lifecycle_stage: deleted
+run_id: b93dd922070449fa93ed06a5b5560d9c
+run_name: indecisive-pug-806
+run_uuid: b93dd922070449fa93ed06a5b5560d9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718175215750
+status: 3
+tags: []
+user_id: ffirman

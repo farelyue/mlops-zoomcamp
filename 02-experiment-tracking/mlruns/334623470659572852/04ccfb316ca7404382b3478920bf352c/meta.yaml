@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/334623470659572852/04ccfb316ca7404382b3478920bf352c/artifacts
+deleted_time: 1718176173011
+end_time: 1718175220648
+entry_point_name: ''
+experiment_id: '334623470659572852'
+lifecycle_stage: deleted
+run_id: 04ccfb316ca7404382b3478920bf352c
+run_name: receptive-bear-930
+run_uuid: 04ccfb316ca7404382b3478920bf352c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718175216948
+status: 3
+tags: []
+user_id: ffirman

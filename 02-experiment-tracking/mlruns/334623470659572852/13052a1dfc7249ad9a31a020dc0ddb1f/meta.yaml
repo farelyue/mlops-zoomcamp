@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/334623470659572852/13052a1dfc7249ad9a31a020dc0ddb1f/artifacts
+deleted_time: 1718176173010
+end_time: 1718175982370
+entry_point_name: ''
+experiment_id: '334623470659572852'
+lifecycle_stage: deleted
+run_id: 13052a1dfc7249ad9a31a020dc0ddb1f
+run_name: respected-skink-257
+run_uuid: 13052a1dfc7249ad9a31a020dc0ddb1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718175982270
+status: 4
+tags: []
+user_id: ffirman

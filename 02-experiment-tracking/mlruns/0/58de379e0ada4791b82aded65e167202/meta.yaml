@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/58de379e0ada4791b82aded65e167202/artifacts
+deleted_time: 1718174527126
+end_time: 1718174432625
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 58de379e0ada4791b82aded65e167202
+run_name: clumsy-squirrel-300
+run_uuid: 58de379e0ada4791b82aded65e167202
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718174427925
+status: 4
+tags: []
+user_id: ffirman

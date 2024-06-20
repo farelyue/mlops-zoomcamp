@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/334623470659572852/b68c4796bbe548e59433d89c7117abb0/artifacts
+deleted_time: 1718175088477
+end_time: 1718174942429
+entry_point_name: ''
+experiment_id: '334623470659572852'
+lifecycle_stage: deleted
+run_id: b68c4796bbe548e59433d89c7117abb0
+run_name: upbeat-lark-415
+run_uuid: b68c4796bbe548e59433d89c7117abb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718174942368
+status: 3
+tags: []
+user_id: ffirman

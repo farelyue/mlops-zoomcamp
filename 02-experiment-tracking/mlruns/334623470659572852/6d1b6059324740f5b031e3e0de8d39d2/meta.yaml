@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/334623470659572852/6d1b6059324740f5b031e3e0de8d39d2/artifacts
+deleted_time: 1718175088476
+end_time: 1718174829674
+entry_point_name: ''
+experiment_id: '334623470659572852'
+lifecycle_stage: deleted
+run_id: 6d1b6059324740f5b031e3e0de8d39d2
+run_name: resilient-sow-8
+run_uuid: 6d1b6059324740f5b031e3e0de8d39d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718174826005
+status: 3
+tags: []
+user_id: ffirman
